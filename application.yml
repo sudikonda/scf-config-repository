@@ -1,0 +1,10 @@
+app:
+  message: Hello Hyderabad
+  list:
+    values : madhapur, gachiboli, ameerpet
+
+#db connection config
+db:
+  connection : jdbc://12.0.39.5:dbschema
+  host: cosmosdb.lmig.com
+  port : 3980
